@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pacifytext/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pacifytext/static/js/main.e668f811.chunk.js",
+    "main.js.map": "/pacifytext/static/js/main.e668f811.chunk.js.map",
+    "runtime-main.js": "/pacifytext/static/js/runtime-main.0109abd3.js",
+    "runtime-main.js.map": "/pacifytext/static/js/runtime-main.0109abd3.js.map",
+    "static/js/2.8e18c0b6.chunk.js": "/pacifytext/static/js/2.8e18c0b6.chunk.js",
+    "static/js/2.8e18c0b6.chunk.js.map": "/pacifytext/static/js/2.8e18c0b6.chunk.js.map",
+    "static/js/3.23cbb5b2.chunk.js": "/pacifytext/static/js/3.23cbb5b2.chunk.js",
+    "static/js/3.23cbb5b2.chunk.js.map": "/pacifytext/static/js/3.23cbb5b2.chunk.js.map",
+    "index.html": "/pacifytext/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pacifytext/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8e18c0b6.chunk.js.LICENSE.txt": "/pacifytext/static/js/2.8e18c0b6.chunk.js.LICENSE.txt",
+    "static/media/second.8236942f.mp3": "/pacifytext/static/media/second.8236942f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0109abd3.js",
+    "static/js/2.8e18c0b6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e668f811.chunk.js"
+  ]
+}
